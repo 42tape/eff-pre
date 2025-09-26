@@ -17,7 +17,7 @@
   },
   "license": "BSD-3-Clause",
   "dependencies": {
-    "mcl-wasm": "^0.3.7"
+    "mcl-wasm": "^2.0.0"
   },
   "keywords": [
     "proxy re-encryption",
